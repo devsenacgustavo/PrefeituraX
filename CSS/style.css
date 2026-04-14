@@ -103,3 +103,12 @@ header {
 .form button {
   cursor: pointer;
 }
+
+/*footer*/
+.footer {
+  background-color: var(--azul);
+  color: white;
+  padding: 1rem;
+}
+/*RESPONSIVIDADE*/
+@media (max-windth: 768px);
